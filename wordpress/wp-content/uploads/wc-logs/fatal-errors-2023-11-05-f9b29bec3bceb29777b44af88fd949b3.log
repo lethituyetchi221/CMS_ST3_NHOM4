@@ -1,0 +1,17 @@
+2023-11-05T14:31:46+00:00 CRITICAL Uncaught Error: Undefined constant "Alex" in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-store\index.php:6
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-store\index.php on line 6
+
+2023-11-05T14:50:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function greeting(), 0 passed in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-store\index.php on line 6 and exactly 1 expected in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-store\index.php:2
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-store\index.php(6): greeting()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#4 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-store\index.php on line 2
+

@@ -1,0 +1,207 @@
+2023-10-30T15:38:25+00:00 CRITICAL Uncaught Error: Call to undefined function paginate_link() in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\archive.php:22
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\archive.php on line 22
+
+2023-10-30T15:38:37+00:00 CRITICAL Uncaught Error: Call to undefined function paginate_link() in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\archive.php:22
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\archive.php on line 22
+
+2023-10-30T15:38:38+00:00 CRITICAL Uncaught Error: Call to undefined function paginate_link() in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\archive.php:22
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\archive.php on line 22
+
+2023-10-30T16:19:19+00:00 CRITICAL Uncaught Error: Call to undefined function the_custom_log() in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php:18
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(720): load_template('C:\\wamp64\\www\\w...', true, Array)
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\index.php(1): get_header()
+#4 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php on line 18
+
+2023-10-30T16:19:26+00:00 CRITICAL Uncaught Error: Call to undefined function the_custom_log() in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php:18
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(720): load_template('C:\\wamp64\\www\\w...', true, Array)
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\archive.php(1): get_header()
+#4 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php on line 18
+
+2023-10-30T16:19:38+00:00 CRITICAL Uncaught Error: Call to undefined function the_custom_log() in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php:18
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(720): load_template('C:\\wamp64\\www\\w...', true, Array)
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\front-page.php(1): get_header()
+#4 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php on line 18
+
+2023-10-30T16:19:42+00:00 CRITICAL Uncaught Error: Call to undefined function the_custom_log() in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php:18
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(720): load_template('C:\\wamp64\\www\\w...', true, Array)
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\front-page.php(1): get_header()
+#4 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php on line 18
+
+2023-10-30T16:19:50+00:00 CRITICAL Uncaught Error: Call to undefined function the_custom_log() in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php:18
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(720): load_template('C:\\wamp64\\www\\w...', true, Array)
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\index.php(1): get_header()
+#4 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php on line 18
+
+2023-10-30T16:20:17+00:00 CRITICAL Uncaught Error: Call to undefined function the_custom_log() in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php:18
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(720): load_template('C:\\wamp64\\www\\w...', true, Array)
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\front-page.php(1): get_header()
+#4 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php on line 18
+
+2023-10-30T16:20:41+00:00 CRITICAL Uncaught Error: Call to undefined function the_custom_log() in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php:18
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(720): load_template('C:\\wamp64\\www\\w...', true, Array)
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\front-page.php(1): get_header()
+#4 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php on line 18
+
+2023-10-30T16:22:15+00:00 CRITICAL Uncaught Error: Call to undefined function the_custom_log() in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php:18
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(720): load_template('C:\\wamp64\\www\\w...', true, Array)
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\front-page.php(1): get_header()
+#4 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php on line 18
+
+2023-10-30T16:23:45+00:00 CRITICAL Uncaught Error: Call to undefined function the_custom_log() in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php:18
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(720): load_template('C:\\wamp64\\www\\w...', true, Array)
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\front-page.php(1): get_header()
+#4 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\header.php on line 18
+
+2023-10-30T17:52:46+00:00 CRITICAL Uncaught Error: Undefined constant "‘wp_head’" in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\functions.php:50
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-settings.php(600): include()
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-config.php(96): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-load.php(50): require_once('C:\\wamp64\\www\\w...')
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-admin\admin.php(34): require_once('C:\\wamp64\\www\\w...')
+#4 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-admin\index.php(10): require_once('C:\\wamp64\\www\\w...')
+#5 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\functions.php on line 50
+
+2023-10-30T18:58:03+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "fr_myplugin_footer" not found or invalid function name in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\class-wp-hook.php:310
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(3069): do_action('wp_footer')
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\footer.php(66): wp_footer()
+#4 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(785): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(720): load_template('C:\\wamp64\\www\\w...', true, Array)
+#6 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#7 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\front-page.php(105): get_footer()
+#8 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#9 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#10 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#11 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\class-wp-hook.php on line 310
+
+2023-10-30T19:03:42+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "copyright_notice" not found or invalid function name in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\class-wp-hook.php:310
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(3069): do_action('wp_footer')
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\footer.php(66): wp_footer()
+#4 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(785): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(720): load_template('C:\\wamp64\\www\\w...', true, Array)
+#6 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#7 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\front-page.php(105): get_footer()
+#8 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#9 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#10 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#11 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\class-wp-hook.php on line 310
+
+2023-10-30T19:03:54+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "copyright_notice" not found or invalid function name in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\class-wp-hook.php:310
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(3069): do_action('wp_footer')
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\footer.php(66): wp_footer()
+#4 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(785): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template.php(720): load_template('C:\\wamp64\\www\\w...', true, Array)
+#6 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#7 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\front-page.php(105): get_footer()
+#8 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#9 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#10 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#11 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\class-wp-hook.php on line 310
+
+2023-10-30T19:15:52+00:00 CRITICAL Cannot redeclare comment_link() (previously declared in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\feed.php:307) in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\functions.php on line 55
+
+2023-10-30T19:17:30+00:00 CRITICAL Cannot redeclare comment_text() (previously declared in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\comment-template.php:1066) in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\functions.php on line 55
+
+2023-10-30T19:18:07+00:00 CRITICAL Cannot redeclare comment_text() (previously declared in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\comment-template.php:1066) in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\functions.php on line 55
+
+2023-10-30T19:26:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\functions.php on line 60 and at least 2 expected in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\plugin.php:121
+Stack trace:
+#0 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-content\themes\fictional-university\functions.php(60): add_filter('thachpham_copyr...')
+#1 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-settings.php(600): include('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-config.php(96): require_once('C:\\wamp64\\www\\w...')
+#3 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-load.php(50): require_once('C:\\wamp64\\www\\w...')
+#4 C:\wamp64\www\wordpress-6.3.1\wordpress\wp-blog-header.php(13): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress-6.3.1\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#6 {main}
+  thrown in C:\wamp64\www\wordpress-6.3.1\wordpress\wp-includes\plugin.php on line 121
+

@@ -1,0 +1,1273 @@
+# Translation of Themes - Neve in Vietnamese
+# This file is distributed under the same license as the Themes - Neve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-04 23:38:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Neve\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL & translation ready. Look no further. Neve is the perfect theme for you!"
+msgstr "Neve là giao diện đa chức năng siêu nhanh, dễ tuỳ biến. Được thiết kế tuyệt vời cho các blog, cửa hàng kinh doanh nhỏ, startup, các công ty, các cửa hàng trực tuyến (sử dụng WooCommerce) cũng như các website giới thiệu và trong hầu hết các dự án, Neve còn được tối ưu AMP và hỗ trợ đa thiết bị di động. Phong cách thiết kế đơn giản và gọn nhẹ, nhưng mạnh mẽ về tuỳ biến và tối ưu SEO trong từng dòng code, mang lại kết quả tốt khi xuất hiện trong công cụ tìm kiếm. Neve tương thích với Gutenberg và các công cụ page builder nổi tiếng (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve tuyệt vời và chắc chắn bạn sẽ thích!"
+
+#: header-footer-grid/Core/Magic_Tags.php:711
+#: header-footer-grid/Core/Magic_Tags.php:735
+msgid "Currency Symbol"
+msgstr "Đơn vị tiền tệ"
+
+#: header-footer-grid/Core/Magic_Tags.php:707
+#: header-footer-grid/Core/Magic_Tags.php:731
+msgid "Currency Name"
+msgstr "Tên đơn vị tiền tệ"
+
+#: header-footer-grid/Core/Magic_Tags.php:703
+#: header-footer-grid/Core/Magic_Tags.php:727
+msgid "Total"
+msgstr "Tổng cộng"
+
+#: inc/views/pluggable/pagination.php:269 inc/views/template_parts.php:494
+msgid "Pages:"
+msgstr "Trang:"
+
+#: header-footer-grid/Core/Magic_Tags.php:654
+msgid "Current User"
+msgstr "Thành viên hiện tại"
+
+#: header-footer-grid/Core/Magic_Tags.php:661
+msgid "Display Name"
+msgstr "Tên hiển thị"
+
+#: header-footer-grid/Core/Magic_Tags.php:665
+msgid "User Email"
+msgstr "Email người dùng"
+
+#: inc/customizer/options/layout_sidebar.php:319
+msgid "edit"
+msgstr "sửa"
+
+#. translators: %s is the header name
+#: header-footer-grid/Core/Customizer.php:277
+msgid "You are customizing the %s Header"
+msgstr "Bạn đang tùy chỉnh phần đầu trang %s"
+
+#: header-footer-grid/Core/Components/Logo.php:483
+#: header-footer-grid/Core/Magic_Tags.php:674
+msgid "Site Title"
+msgstr "Tên website"
+
+#: header-footer-grid/Core/Magic_Tags.php:648
+msgid "Author URL"
+msgstr "URL của tác giả"
+
+#: header-footer-grid/Core/Magic_Tags.php:644
+msgid "Author Name"
+msgstr "Tên tác giả"
+
+#: header-footer-grid/Core/Magic_Tags.php:640
+msgid "Author Bio"
+msgstr "Giới thiệu về tác giả"
+
+#: header-footer-grid/Core/Magic_Tags.php:690
+msgid "Current Year"
+msgstr "Năm hiện tại"
+
+#: header-footer-grid/Core/Magic_Tags.php:744
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: header-footer-grid/Core/Magic_Tags.php:620 inc/compatibility/fse.php:47
+msgid "Archive"
+msgstr "Lưu trữ"
+
+#: header-footer-grid/Core/Magic_Tags.php:686
+msgid "Home URL"
+msgstr "Địa chỉ trang chủ"
+
+#: header-footer-grid/Core/Magic_Tags.php:747
+#: assets/apps/customizer-controls/build/controls.js:1
+msgid "Product Price"
+msgstr "Giá sản phẩm"
+
+#: header-footer-grid/Core/Magic_Tags.php:751
+msgid "Product Title"
+msgstr "Tên sản phẩm"
+
+#: header-footer-grid/Core/Magic_Tags.php:623
+msgid "Archive Description"
+msgstr "Mô tả của Lưu trữ"
+
+#: header-footer-grid/Core/Magic_Tags.php:627
+msgid "Archive Title"
+msgstr "Tên mục lưu trữ"
+
+#: header-footer-grid/Core/Magic_Tags.php:631
+msgid "Archive URL"
+msgstr "Địa chỉ lưu trữ"
+
+#: header-footer-grid/Core/Magic_Tags.php:755
+msgid "Cart URL"
+msgstr "Địa chỉ giỏ hàng"
+
+#: header-footer-grid/Core/Magic_Tags.php:759
+msgid "Checkout URL"
+msgstr "Địa chỉ thanh toán"
+
+#: header-footer-grid/Core/Magic_Tags.php:583
+msgid "Single"
+msgstr "Trang con"
+
+#: header-footer-grid/Core/Magic_Tags.php:586
+msgid "Current Single Title"
+msgstr "Tiêu đề trang con hiện tại"
+
+#: header-footer-grid/Core/Magic_Tags.php:590
+msgid "Current Single Excerpt"
+msgstr "Mô tả ngắn trang con hiện tại"
+
+#: header-footer-grid/Core/Magic_Tags.php:594
+msgid "Current Single URL"
+msgstr "Địa chỉ trang con hiện tại"
+
+#: header-footer-grid/Core/Builder/Header.php:256
+#: header-footer-grid/Core/Magic_Tags.php:671
+msgid "Global"
+msgstr "Chung"
+
+#: header-footer-grid/Core/Magic_Tags.php:678
+msgid "Site Tagline"
+msgstr "Khẩu hiệu của web"
+
+#: header-footer-grid/Core/Components/Logo.php:383
+msgid "Display"
+msgstr "Hiển thị"
+
+#: header-footer-grid/Core/Components/CartIcon.php:146
+#: header-footer-grid/Core/Components/EddCartIcon.php:63
+#: header-footer-grid/Core/Components/PaletteSwitch.php:421
+#: header-footer-grid/Core/Components/SearchResponsive.php:148
+msgid "Icon Size"
+msgstr "Kích cỡ icon"
+
+#: inc/customizer/options/base_layout_single.php:564
+#: inc/customizer/options/layout_single_post.php:261
+#: assets/apps/customizer-controls/build/f5f50d9c4ad489d8c3f0.js:1
+#: assets/apps/metabox/build/index.js:1
+msgid "Inherit"
+msgstr "Mặc định"
+
+#: header-footer-grid/Core/Builder/Header.php:219
+#: assets/apps/components/build/components.js:1
+#: assets/apps/customizer-controls/build/controls.js:1
+msgid "Background"
+msgstr "Nền"
+
+#: inc/customizer/options/base_layout_single.php:154
+#: inc/customizer/options/base_layout_single.php:458
+#: assets/apps/components/build/components.js:1
+msgid "Normal"
+msgstr "Bình thường"
+
+#: header-footer-grid/Core/Components/CustomHtml.php:148
+msgid "Arbitrary HTML code. It supports also shortcodes."
+msgstr "HTML code tùy ý. Hỗ trợ với các shortcode."
+
+#: header-footer-grid/Core/Components/MenuIcon.php:458
+msgid "Menu label"
+msgstr "Menu label"
+
+#: header-footer-grid/templates/rows.php:78
+msgid "Hide"
+msgstr "Ẩn"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1829
+#: header-footer-grid/Core/Components/Abstract_Component.php:958
+#: inc/customizer/options/upsells.php:365
+msgid "Alignment"
+msgstr "Căn chỉnh"
+
+#: header-footer-grid/templates/rows.php:77
+msgid "Show"
+msgstr "Hiển thị"
+
+#: header-footer-grid/templates/rows.php:74
+msgid "Mobile menu content"
+msgstr "Nội dung menu di động"
+
+#: header-footer-grid/Core/Components/Search.php:341
+#: header-footer-grid/Core/Components/SearchResponsive.php:510
+#: assets/apps/components/build/components.js:1
+msgid "Text and Border"
+msgstr "Chữ và Đường viền"
+
+#: header-footer-grid/Core/Components/Utility/SearchIconButton.php:134
+#: header-footer-grid/Core/Components/Utility/SearchIconButton.php:247
+#: inc/customizer/options/buttons.php:194
+msgid "Button Appearance"
+msgstr "Style của nút"
+
+#: header-footer-grid/Core/Components/Button.php:181
+#: header-footer-grid/Core/Components/MenuIcon.php:569
+msgid "Appearance"
+msgstr "Giao diện"
+
+#: inc/customizer/options/typography.php:145
+msgid "Body"
+msgstr "Phần thân"
+
+#: header-footer-grid/Core/Customizer.php:342
+msgid "Search Components"
+msgstr "Các Thành phần Tìm kiếm"
+
+#: inc/customizer/options/layout_blog.php:434
+msgid "Thumbnail Shadow"
+msgstr "Bóng Ảnh thu nhỏ"
+
+#: header-footer-grid/Core/Components/Logo.php:81
+msgid "Display your company logo here or simply use words to describe your business."
+msgstr "Hiển thị logo công ty tại đây hoặc dùng những từ ngữ đơn giản để mô tả công ty của bạn."
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1814
+#: header-footer-grid/Core/Components/Abstract_Component.php:931
+#: inc/customizer/options/base_layout_single.php:258
+#: inc/customizer/options/upsells.php:374
+msgid "Center"
+msgstr "Giữa"
+
+#: header-footer-grid/Core/Builder/Footer.php:73
+msgid "Change Footer Color"
+msgstr "Thay đổi Màu Footer"
+
+#: header-footer-grid/Core/Builder/Header.php:92
+msgid "Change Menu"
+msgstr "Thay đổi Menu"
+
+#: header-footer-grid/Core/Builder/Footer.php:68
+msgid "Change Copyright"
+msgstr "Thay đổi Copyright"
+
+#: header-footer-grid/Core/Builder/Header.php:84
+#: assets/apps/customizer-controls/build/controls.js:5
+msgid "Change Logo"
+msgstr "Thay đổi logo"
+
+#: header-footer-grid/Core/Builder/Header.php:88
+msgid "Change Header Color"
+msgstr "Thay đổi màu Header"
+
+#: inc/compatibility/pwa.php:63
+msgid "Oops! Something went wrong."
+msgstr "Rất tiếc! Đã xảy ra lỗi."
+
+#: inc/compatibility/pwa.php:50
+msgid "Oops! It looks like you&#8217;re offline."
+msgstr "Rất tiếc! Có vẻ bạn đang mất mạng."
+
+#: inc/admin/dashboard/main.php:601
+msgid "Typekit(Adobe) Fonts"
+msgstr "Typekit(Adobe) Fonts"
+
+#: inc/admin/dashboard/main.php:596
+msgid "Make your LifterLMS pages look stunning with our PRO design options. Specially created to help you set up your online courses with minimum customizations."
+msgstr "Làm các trang tạo bởi LifterLMS trông chuyên nghiệp hơn với tùy chọn thiết kế PRO của chúng tôi. Nó được tạo để thiết lập các khóa học online với tùy chỉnh đơn giản nhất."
+
+#: inc/admin/dashboard/main.php:602
+msgid "The module allows for an easy way of enabling new awesome Adobe (previous Typekit) Fonts in Neve's Typography options."
+msgstr "Module này cho phép dễ dàng bật font từ Adobe (còn gọi là Typekit) trong tùy chọn font chữ của Neve."
+
+#: inc/admin/dashboard/main.php:595
+msgid "LifterLMS Booster"
+msgstr "LifterLMS Booster"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:482
+msgid "Row Background"
+msgstr "Nền của dòng"
+
+#: inc/admin/dashboard/main.php:565
+msgid "Page Header Builder"
+msgstr "Page Header Builder"
+
+#: inc/admin/dashboard/main.php:566
+msgid "The Page Header is the horizontal area that sits directly below the header and contains the page/post title. Easily design an attractive Page Header area using our dedicated builder."
+msgstr "Header của trang là khu vực nằm ngang trên cùng bên dưới header chính và chứa tên bài viết hoặc trang. Dễ dàng thiết kế khu vực này một cách ấn tượng bằng công cụ riêng của chúng tôi."
+
+#. translators: %s link to documentation
+#: header-footer-grid/Core/Builder/Footer.php:45
+#: header-footer-grid/Core/Builder/Header.php:64
+msgid "Design your %1$s by dragging, dropping and resizing all the elements in real-time. %2$s."
+msgstr "Thiết kế %1$s của bạn bằng cách kéo thả và thay đổi kích thước các đối tượng thời gian thực. %2$s."
+
+#: inc/admin/dashboard/main.php:572
+msgid "Powerful Custom Layouts builder which allows you to easily create your own header, footer or custom content on any of the hook locations available in the theme."
+msgstr "Trình tùy chỉnh bố cục mạnh mẽ cho phép bạn dễ dàng tạo đầu trang, cuối trang hoặc nội dung tùy chỉnh trong bất kỳ khu vực nào có sẵn của giao diện."
+
+#: inc/views/partials/post_meta.php:292
+msgid "by"
+msgstr "bởi"
+
+#: inc/customizer/options/layout_blog.php:534
+#: inc/customizer/options/layout_single_post.php:383
+msgid "Show Author Avatar"
+msgstr "Xem ảnh đại diện của tác giả"
+
+#: inc/admin/dashboard/main.php:614
+msgid "Simple but effective module to help you navigate back to the top of the really long pages."
+msgstr "Module đơn giản nhưng hữu ích để giúp bạn chuyển lên trên cùng của những trang có nội dung dài."
+
+#: inc/admin/dashboard/main.php:613
+msgid "Scroll To Top"
+msgstr "Trở về đầu trang"
+
+#: inc/admin/dashboard/main.php:608
+msgid "For any developer or agency out there building websites for their own clients, we've made it easy to present the theme as your own."
+msgstr "Cho bất kỳ lập trình viên hoặc công ty nào xây dựng website cho khách hàng, chúng tôi mang đến khả năng giới thiệu giao diện dưới tên riêng."
+
+#: inc/admin/dashboard/main.php:607
+msgid "White Label"
+msgstr "Không bản quyền"
+
+#: inc/admin/dashboard/main.php:590 assets/apps/dashboard/build/dashboard.js:2
+msgid "Empower your online store with awesome new features, specially designed for a smooth WooCommerce integration."
+msgstr "Làm cửa hàng trực tuyến của bạn tốt hơn với những tính năng mới tuyệt vời, được thiết kế cho tích hợp WooCommerce."
+
+#: inc/admin/dashboard/main.php:578
+msgid "Sharing, custom article sorting, comments integrations, number of minutes needed to read an article and many more."
+msgstr "Chia sẻ, sắp xếp bài viết tùy chỉnh, tích hợp bình luận, hiển thị thời gian cần để đọc bài viết và nhiều hơn thế."
+
+#: inc/admin/dashboard/main.php:590
+msgid "Wishlist, quick view, video products, advanced reviews, multiple dedicated layouts and many more."
+msgstr "Danh sách ghi nhớ, xem nhanh, sản phẩm có video, đánh giá nâng cao, nhiều bố cục đa dạng và nhiều hơn thế."
+
+#: inc/admin/dashboard/main.php:578
+msgid "Give a huge boost to your entire blogging experience with features specially designed for increased user experience."
+msgstr "Tăng cường mạnh mẽ khả năng dành cho blog với các tính năng được thiết kế đặc biệt nhằm nâng cao trải nghiệm người dùng."
+
+#: inc/admin/dashboard/main.php:560
+msgid "Take the header builder to a new level with new awesome components: socials, contact, breadcrumbs, language switcher, multiple HTML, sticky and transparent menu, page header builder and many more."
+msgstr "Nâng cấp khả năng tùy chỉnh đầu trang với các thành phần mới: mạng xã hội, liên hệ, dấu chỉ trang, chuyển ngôn ngữ, menu trong suốt và bám đầu trang, và nhiều hơn thế."
+
+#: inc/admin/dashboard/main.php:554
+msgid "Neve is fully compatible with Gutenberg, the new WordPress editor and for all of you page builder fans, Neve has full compatibility with Elementor, Beaver Builder, and all the other popular page builders."
+msgstr "Neve hoàn toàn tương thích với Gutenberg, trình soạn thảo mới của WordPress cũng như sử dụng tốt với các trình soạn thảo khác như Elementỏ, Beaver Builder hay các trình soạn thảo trang thông dụng khác."
+
+#: inc/admin/dashboard/main.php:553
+msgid "Page Builder Compatibility"
+msgstr "Khả năng tương thích công cụ sửa trang"
+
+#: inc/admin/dashboard/main.php:548
+msgid "Easily build your header and footer by dragging and dropping all the important elements in the real-time WordPress Customizer. More advanced options are available in PRO."
+msgstr "Dễ dàng thiết lập đầu và cuối trang bằng kéo thả các đối tượng trong thời gian thực trên Tùy chỉnh. Nhiều tùy chọn bổ sung có trong bản PRO."
+
+#: inc/admin/dashboard/main.php:547
+msgid "Header/Footer builder"
+msgstr "Tùy chỉnh đầu/cuối trang"
+
+#: inc/customizer/controls/upsell_control.php:95
+#: assets/apps/customizer-controls/build/d0ef9f65a1aeaf4b8f30.js:1
+msgid "PRO"
+msgstr "PRO"
+
+#: inc/admin/dashboard/main.php:584 inc/core/front_end.php:528
+msgid "Leverage the true flexibility of Elementor with powerful addons and templates that you can import with just one click."
+msgstr "Mang trải nghiệm linh hoạt thực sự của Elementor với các addon mạnh mẽ và bố cục bạn có thể nhập trong chỉ một cú nhấp chuột."
+
+#: inc/admin/dashboard/main.php:559 inc/core/front_end.php:519
+msgid "Header Booster"
+msgstr "Tối ưu Header"
+
+#: inc/admin/dashboard/main.php:577 inc/core/front_end.php:520
+msgid "Blog Booster"
+msgstr "Tối ưu cho blog"
+
+#: inc/admin/dashboard/main.php:589 inc/core/front_end.php:521
+#: assets/apps/dashboard/build/dashboard.js:2
+msgid "WooCommerce Booster"
+msgstr "Tối ưu WooCommerce"
+
+#: header-footer-grid/Core/Builder/Header.php:557
+#: inc/admin/dashboard/main.php:224 inc/admin/dashboard/main.php:225
+#: inc/admin/dashboard/main.php:571 inc/core/front_end.php:522
+#: assets/apps/dashboard/build/dashboard.js:2
+#: assets/apps/dashboard/build/dashboard.js:3
+msgid "Custom Layouts"
+msgstr "Bố cục tùy chọn"
+
+#: inc/core/front_end.php:523
+msgid "White Label module"
+msgstr "Module ẩn danh"
+
+#: inc/core/front_end.php:524
+msgid "Scroll to Top module"
+msgstr "Module trở lên trên cùng"
+
+#: inc/admin/dashboard/main.php:583 inc/core/front_end.php:525
+msgid "Elementor Booster"
+msgstr "Tối ưu Elementor"
+
+#: inc/core/front_end.php:527
+msgid "Easily create custom headers and footers as well as adding your own custom code or content in any of the hooks locations."
+msgstr "Dễ dàng tùy chỉnh phần đầu trang và cuối trang cũng như thêm code của riêng bạn trong bất kỳ hook nào."
+
+#: inc/customizer/options/buttons.php:44
+msgid "Buttons"
+msgstr "Nút ấn"
+
+#: inc/customizer/options/form_fields.php:591
+#: inc/customizer/options/layout_single_post.php:540
+msgid "Primary"
+msgstr "Chính"
+
+#: inc/customizer/options/form_fields.php:592
+#: inc/customizer/options/layout_single_post.php:541
+msgid "Secondary"
+msgstr "Phụ"
+
+#: header-footer-grid/Core/Components/Search.php:310
+#: header-footer-grid/Core/Components/SearchResponsive.php:479
+msgid "Background Color"
+msgstr "Màu nền"
+
+#: header-footer-grid/Core/Components/CartIcon.php:177
+#: header-footer-grid/Core/Components/EddCartIcon.php:94
+#: header-footer-grid/Core/Components/Nav.php:281
+#: header-footer-grid/Core/Components/SearchResponsive.php:183
+#: header-footer-grid/Core/Components/SecondNav.php:199
+#: inc/customizer/options/base_layout_single.php:466
+#: inc/customizer/options/form_fields.php:356
+#: assets/apps/components/build/components.js:1
+#: assets/apps/customizer-controls/build/controls.js:5
+msgid "Color"
+msgstr "Màu"
+
+#: header-footer-grid/Core/Components/CartIcon.php:208
+#: header-footer-grid/Core/Components/EddCartIcon.php:114
+#: header-footer-grid/Core/Components/SearchResponsive.php:208
+msgid "Hover Color"
+msgstr "Màu rê chuột"
+
+#: header-footer-grid/Core/Settings/Manager.php:210
+#: inc/customizer/options/upsells.php:315
+#: assets/apps/components/build/components.js:1
+msgid "Style"
+msgstr "Style"
+
+#: header-footer-grid/Core/Components/SecondNav.php:231
+msgid "Select Menu"
+msgstr "Chọn menu"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:545
+#: header-footer-grid/Core/Components/MenuIcon.php:504
+msgid "Margin"
+msgstr "Margin"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1810
+#: header-footer-grid/Core/Components/Abstract_Component.php:927
+#: inc/customizer/options/base_layout_single.php:254
+#: inc/customizer/options/layout_sidebar.php:173
+#: inc/customizer/options/upsells.php:370
+#: inc/customizer/options/upsells.php:384
+#: assets/apps/components/build/components.js:1
+#: assets/apps/customizer-controls/build/controls.js:1
+#: assets/apps/customizer-controls/build/controls.js:5
+#: assets/apps/metabox/build/index.js:1
+msgid "Left"
+msgstr "Trái"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:2014
+#: inc/customizer/options/base_layout_single.php:319
+#: inc/customizer/options/upsells.php:216
+#: assets/apps/components/build/components.js:1
+#: assets/apps/customizer-controls/build/controls.js:1
+#: assets/apps/customizer-controls/build/controls.js:5
+msgid "Bottom"
+msgstr "Dưới"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1818
+#: header-footer-grid/Core/Components/Abstract_Component.php:935
+#: inc/customizer/options/base_layout_single.php:262
+#: inc/customizer/options/layout_sidebar.php:177
+#: inc/customizer/options/upsells.php:379
+#: inc/customizer/options/upsells.php:384
+#: assets/apps/components/build/components.js:1
+#: assets/apps/customizer-controls/build/controls.js:1
+#: assets/apps/customizer-controls/build/controls.js:5
+#: assets/apps/metabox/build/index.js:1
+msgid "Right"
+msgstr "Phải"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:2006
+#: inc/customizer/options/base_layout_single.php:311
+#: assets/apps/components/build/components.js:1
+#: assets/apps/customizer-controls/build/controls.js:1
+#: assets/apps/customizer-controls/build/controls.js:5
+msgid "Top"
+msgstr "Trên"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:515
+#: inc/customizer/options/buttons.php:76
+msgid "Padding"
+msgstr "Padding"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1886
+msgid "Slide from Left"
+msgstr "Slide từ bên trái"
+
+#: inc/customizer/options/layout_single_product.php:125
+msgid "All"
+msgstr "Tất cả"
+
+#: inc/customizer/options/layout_single_product.php:92
+#: assets/apps/customizer-controls/build/controls.js:1
+#: assets/apps/metabox/build/index.js:1
+msgid "Title"
+msgstr "Tên"
+
+#: inc/customizer/options/layout_single_product.php:71
+msgid "Exclusive Products"
+msgstr "Sản phẩm độc quyền"
+
+#: inc/compatibility/lifter.php:341
+msgid "Catalog Sidebar"
+msgstr "Sidebar Catalog"
+
+#: header-footer-grid/Core/Builder/Footer.php:196
+#: header-footer-grid/Core/Builder/Footer.php:208
+msgid "Footer Bottom"
+msgstr "Footer dưới"
+
+#: header-footer-grid/Core/Builder/Footer.php:188
+#: header-footer-grid/Core/Builder/Footer.php:204
+msgid "Footer Top"
+msgstr "Footer trên"
+
+#: header-footer-grid/Core/Builder/Header.php:482
+msgid "Header Bottom"
+msgstr "Header dưới"
+
+#: header-footer-grid/Core/Builder/Header.php:478
+msgid "Header Main"
+msgstr "Header chính"
+
+#: header-footer-grid/Core/Builder/Header.php:474
+msgid "Header Top"
+msgstr "Header trên"
+
+#. translators: %s - customizer link
+#: header-footer-grid/templates/components/component-footer-sidebar.php:31
+msgid "Replace this widget content by going to %s and add widgets into this widget area."
+msgstr "Thay đổi nội dung widget bằng cách đi đến %s và thêm widget vào khu vực widget."
+
+#: header-footer-grid/Core/Components/Nav.php:330
+msgid "Last Menu Item"
+msgstr "Item menu cuối"
+
+#: header-footer-grid/Core/Components/Nav.php:228
+#: header-footer-grid/Core/Components/SecondNav.php:146
+msgid "Active Item Color"
+msgstr "Màu item vừa bấm"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:42
+msgid "Search Icon"
+msgstr "Tìm icon"
+
+#: header-footer-grid/Core/Components/Search.php:66
+#: header-footer-grid/Core/Components/SearchResponsive.php:92
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: header-footer-grid/Core/Components/Search.php:65
+#: header-footer-grid/Core/Components/Search.php:452
+#: header-footer-grid/Core/Components/SearchResponsive.php:91
+#: header-footer-grid/Core/Components/SearchResponsive.php:633
+#: searchform.php:10 searchform.php:37
+msgid "Search for..."
+msgstr "Tìm kiếm..."
+
+#: header-footer-grid/Core/Components/Search.php:42
+msgid "Search Form"
+msgstr "Form tìm kiếm"
+
+#: header-footer-grid/Core/Components/Nav.php:253
+#: header-footer-grid/Core/Components/NavFooter.php:112
+#: header-footer-grid/Core/Components/SecondNav.php:167
+msgid "Items Hover Color"
+msgstr "Màu item di chuột"
+
+#: header-footer-grid/Core/Components/Nav.php:203
+#: header-footer-grid/Core/Components/NavFooter.php:86
+#: header-footer-grid/Core/Components/SecondNav.php:120
+msgid "Items Color"
+msgstr "Màu item"
+
+#: header-footer-grid/Core/Components/SecondNav.php:42
+#: header-footer-grid/Core/Components/SecondNav.php:225
+#: header-footer-grid/templates/components/component-nav-secondary.php:25
+#: inc/core/front_end.php:75
+msgid "Secondary Menu"
+msgstr "Menu phụ"
+
+#: header-footer-grid/Core/Components/CartIcon.php:45
+msgid "Cart Icon"
+msgstr "Icon giỏ hàng"
+
+#: header-footer-grid/Core/Components/Button.php:135
+msgid "Link"
+msgstr "Liên kết"
+
+#: header-footer-grid/Core/Components/Button.php:81
+#: header-footer-grid/Core/Components/Button.php:150
+#: header-footer-grid/Core/Components/Utility/SearchIconButton.php:143
+#: header-footer-grid/Core/Components/Utility/SearchIconButton.php:147
+#: inc/customizer/options/form_fields.php:566
+#: assets/apps/components/build/components.js:1
+msgid "Button"
+msgstr "Nút"
+
+#: header-footer-grid/Core/Components/Logo.php:403
+msgid "Show Site Tagline"
+msgstr "Hiện khẩu hiệu"
+
+#: header-footer-grid/Core/Components/Logo.php:418
+msgid "Show Site Title"
+msgstr "Hiện tên website"
+
+#: header-footer-grid/Core/Components/Logo.php:80
+msgid "Logo & Site Identity"
+msgstr "Logo & Trang web"
+
+#: header-footer-grid/Core/Components/MenuIcon.php:111
+msgid "Menu Icon"
+msgstr "Icon menu"
+
+#: header-footer-grid/Core/Builder/Header.php:553
+#: header-footer-grid/Core/Components/CustomHtml.php:35
+#: header-footer-grid/Core/Components/CustomHtml.php:147
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/views/pluggable/pagination.php:291
+msgid "next"
+msgstr "tiếp theo"
+
+#: inc/views/pluggable/pagination.php:286
+msgid "previous"
+msgstr "trở lại"
+
+#: inc/customizer/options/layout_single_post.php:161
+#: inc/customizer/options/layout_single_post.php:169
+msgid "Post navigation"
+msgstr "Duyệt bài"
+
+#. translators: %s - post type
+#: inc/admin/metabox/manager.php:129 inc/admin/metabox/manager.php:146
+msgid "%s Settings"
+msgstr "Cài đặt %s"
+
+#: inc/core/admin.php:497
+msgid "Return to your dashboard"
+msgstr "Trở lại trang chính"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:483
+msgid "%s is now installed and ready to use. We've assembled some links to get you started."
+msgstr "%s đã được cài đặt và sẵn sàng sử dụng. Chúng tôi cung cấp vài liên kết để bạn bắt đầu."
+
+#: inc/core/admin.php:480
+msgid "Congratulations!"
+msgstr "Xin chúc mừng!"
+
+#: inc/core/admin.php:503
+msgid "or go to the theme settings"
+msgstr "hoặc đến với cài đặt giao diện"
+
+#: inc/core/admin.php:492 assets/apps/starter-sites/build/notice.js:1
+msgid "Try one of our ready to use Starter Sites"
+msgstr "Thử một trong các website có sẵn nội dung"
+
+#. translators: %s: number of comments
+#: inc/views/partials/post_meta.php:403
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s bình luận"
+
+#: functions.php:40
+msgid "upgrading PHP to the latest version"
+msgstr "nâng cấp PHP lên phiên bản mới nhất"
+
+#. Theme Name of the theme
+#. translators: Theme Name
+#: inc/admin/troubleshoot/main.php:38 inc/admin/troubleshoot/main.php:79
+#: inc/admin/troubleshoot/main.php:93 inc/admin/troubleshoot/main.php:96
+#: inc/admin/troubleshoot/main.php:102 inc/admin/troubleshoot/main.php:115
+#: inc/customizer/options/main.php:112 assets/apps/metabox/build/index.js:2
+msgid "Neve"
+msgstr "Neve"
+
+#: header-footer-grid/Core/Customizer.php:297
+#: header-footer-grid/templates/components/component-cart-icon.php:27
+#: header-footer-grid/templates/components/component-search-responsive.php:47
+#: inc/views/header.php:139 inc/views/layouts/layout_sidebar.php:189
+msgid "Close"
+msgstr "Đóng"
+
+#: inc/views/partials/comments.php:139
+msgid "Previous"
+msgstr "Quay lại"
+
+#: inc/views/partials/comments.php:142
+msgid "Next"
+msgstr "Tiếp theo"
+
+#. translators: 1: date, 2: time
+#: inc/views/partials/comments.php:206
+msgid "%1$s at %2$s"
+msgstr "%1$s vào lúc %2$s"
+
+#: inc/views/partials/comments.php:252
+msgid "Reply"
+msgstr "Trả lời"
+
+#. translators: number of comments
+#: inc/views/partials/comments.php:280
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s bình luận trong &ldquo;%2$s&rdquo;"
+
+#: inc/customizer/options/layout_single_post.php:160
+#: inc/customizer/options/layout_single_post.php:168
+#: inc/customizer/options/upsells.php:293 inc/views/partials/post_meta.php:417
+#: assets/apps/metabox/build/index.js:1
+msgid "Tags"
+msgstr "Tag"
+
+#: inc/views/template_parts.php:426
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: inc/core/front_end.php:529 inc/customizer/options/upsells.php:81
+#: inc/customizer/options/upsells.php:460
+#: inc/customizer/options/upsells.php:481
+msgid "Get the PRO version!"
+msgstr "Mua bản trả phí!"
+
+#: inc/core/admin.php:514
+msgid "Sites Library"
+msgstr "Thư viện site"
+
+#: inc/customizer/options/layout_sidebar.php:243
+msgid "Sidebar Layout"
+msgstr "Bố cục cột bên"
+
+#: globals/utilities.php:233 header-footer-grid/Core/Components/Nav.php:304
+#: header-footer-grid/Core/Components/Utility/SearchIconButton.php:95
+#: inc/compatibility/fse.php:49 searchform.php:19 searchform.php:41
+#: assets/apps/customizer-controls/build/585056780d73ab9a0975.js:1
+#: assets/apps/customizer-controls/build/controls.js:5
+#: assets/apps/customizer-controls/build/f5f50d9c4ad489d8c3f0.js:1
+msgid "Search"
+msgstr "Tìm"
+
+#: inc/customizer/options/layout_sidebar.php:267
+msgid "Content Width (%)"
+msgstr "Độ rộng nội dung (%)"
+
+#: inc/customizer/options/layout_single_post.php:193
+msgid "Elements Order"
+msgstr "Thứ tự các đối tượng"
+
+#: header-footer-grid/Core/Builder/Footer.php:37
+#: header-footer-grid/Core/Builder/Footer.php:80 inc/compatibility/fse.php:436
+msgid "Footer"
+msgstr "Cuối trang"
+
+#: globals/utilities.php:707 inc/customizer/options/layout_blog.php:498
+#: inc/customizer/options/layout_single_post.php:162
+#: inc/customizer/options/layout_single_post.php:170
+#: inc/customizer/options/layout_single_post.php:326
+#: inc/views/partials/post_meta.php:237 assets/apps/metabox/build/index.js:1
+msgid "Comments"
+msgstr "Bình luận"
+
+#: globals/utilities.php:705 inc/customizer/options/layout_blog.php:496
+#: inc/customizer/options/layout_single_post.php:324
+#: inc/customizer/options/layout_single_product.php:107
+#: inc/customizer/options/upsells.php:239 inc/views/partials/post_meta.php:235
+msgid "Category"
+msgstr "Chuyên mục"
+
+#: globals/utilities.php:704 header-footer-grid/Core/Magic_Tags.php:637
+#: inc/customizer/options/layout_blog.php:495
+#: inc/customizer/options/layout_single_post.php:323
+#: inc/views/partials/post_meta.php:234
+msgid "Author"
+msgstr "Tác giả"
+
+#: inc/customizer/options/layout_blog.php:394
+msgid "Post Content Order"
+msgstr "Thứ tự nội dung bài viết"
+
+#: inc/customizer/options/layout_blog.php:383
+msgid "Excerpt"
+msgstr "Tóm tắt"
+
+#: globals/utilities.php:706 inc/customizer/options/layout_blog.php:497
+#: inc/customizer/options/layout_single_post.php:325
+#: inc/views/partials/post_meta.php:236
+msgid "Date"
+msgstr "Thời gian"
+
+#: inc/customizer/options/layout_single_post.php:159
+#: inc/customizer/options/layout_single_post.php:167
+#: inc/customizer/options/upsells.php:343 assets/apps/metabox/build/index.js:1
+msgid "Content"
+msgstr "Nội dung"
+
+#: header-footer-grid/Core/Components/Button.php:151
+#: header-footer-grid/Core/Components/Utility/SearchIconButton.php:147
+#: header-footer-grid/Core/Components/Utility/SearchIconButton.php:229
+#: assets/apps/components/build/components.js:1
+msgid "Text"
+msgstr "Chữ"
+
+#. translators: %1$s is Theme Name ( Neve ), %2$s is WordPress
+#: header-footer-grid/Core/Builder/Footer.php:136
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s | Mã nguồn %2$s"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:651
+#: header-footer-grid/Core/Builder/Header.php:57 inc/compatibility/fse.php:413
+msgid "Header"
+msgstr "Đầu trang"
+
+#: header-footer-grid/Core/Builder/Header.php:195
+#: header-footer-grid/Core/Settings/Manager.php:202
+#: inc/customizer/options/buttons.php:56
+#: inc/customizer/options/checkout.php:105
+#: inc/customizer/options/typography.php:97
+msgid "General"
+msgstr "Cơ bản"
+
+#: inc/customizer/options/typography.php:101
+msgid "Headings"
+msgstr "Tiêu đề"
+
+#. translators: search result
+#: inc/views/page_header.php:85
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: inc/views/partials/comments.php:181 inc/views/partials/comments.php:246
+#: assets/apps/components/build/components.js:1
+msgid "Edit"
+msgstr "Sửa"
+
+#: inc/views/partials/comments.php:219
+msgid "Comment awaiting moderation."
+msgstr "Bình luận chờ duyệt."
+
+#: inc/views/content_none.php:61
+msgid "Get started here"
+msgstr "Bắt đầu tại đây"
+
+#. translators: %s is Link to new post
+#: inc/views/content_none.php:56
+msgid "Ready to publish your first post? %s."
+msgstr "Sẵn sàng để viết bài đầu tiên? %s."
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:343
+#: header-footer-grid/Core/Settings/Manager.php:206
+#: inc/customizer/options/main.php:55 inc/customizer/options/upsells.php:155
+#: inc/customizer/options/upsells.php:178
+#: inc/customizer/options/upsells.php:261 assets/apps/metabox/build/index.js:1
+msgid "Layout"
+msgstr "Bố cục"
+
+#: inc/compatibility/fse.php:45 inc/customizer/options/typography.php:105
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/options/layout_blog.php:91
+#: inc/customizer/options/layout_sidebar.php:40
+msgid "Blog / Archive"
+msgstr "Blog / Lưu trữ"
+
+#. translators: %s is the header name
+#: header-footer-grid/Core/Customizer.php:277
+#: assets/apps/customizer-controls/build/f5f50d9c4ad489d8c3f0.js:1
+#: assets/apps/metabox/build/index.js:1
+msgid "Default"
+msgstr "Mặc định"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:515
+#: header-footer-grid/Core/Components/CustomHtml.php:171
+#: header-footer-grid/Core/Components/Logo.php:526
+#: inc/compatibility/elementor.php:171 inc/core/front_end.php:118
+#: inc/customizer/options/layout_blog.php:185
+#: assets/apps/components/build/components.js:1
+msgid "Text Color"
+msgstr "Màu chữ"
+
+#: inc/core/front_end.php:478
+msgid "Shop Sidebar"
+msgstr "Sidebar cửa hàng"
+
+#: header-footer-grid/Core/Components/Nav.php:45
+#: header-footer-grid/Core/Components/Nav.php:348
+#: header-footer-grid/templates/components/component-nav.php:31
+#: inc/core/front_end.php:73
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#: header-footer-grid/Core/Components/NavFooter.php:41
+#: header-footer-grid/Core/Components/NavFooter.php:146
+#: header-footer-grid/templates/components/component-nav-footer.php:25
+#: inc/core/front_end.php:74
+msgid "Footer Menu"
+msgstr "Menu cuối trang"
+
+#: inc/admin/dashboard/main.php:501
+msgid "Customize Fonts"
+msgstr "Tuỳ chỉnh font chữ"
+
+#: inc/admin/dashboard/main.php:497
+msgid "Set Colors"
+msgstr "Đổi màu"
+
+#: inc/admin/dashboard/main.php:493
+#: assets/apps/customizer-controls/build/controls.js:5
+msgid "Upload Logo"
+msgstr "Tải logo"
+
+#: inc/views/partials/comments.php:179
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/views/partials/comments.php:134
+msgid "Comments Navigation"
+msgstr "Duyệt bình luận"
+
+#: inc/views/partials/comments.php:87
+msgid "Comments are closed."
+msgstr "Chức năng bình luận bị tắt."
+
+#: header-footer-grid/templates/components/component-menu-icon.php:25
+#: header-footer-grid/templates/components/component-menu-icon.php:29
+#: header-footer-grid/templates/components/component-menu-icon.php:52
+#: header-footer-grid/templates/row-wrapper-mobile.php:36
+#: header-footer-grid/templates/row-wrapper-mobile.php:37
+#: header-footer-grid/templates/row-wrapper-mobile.php:58
+msgid "Navigation Menu"
+msgstr "Menu"
+
+#: header-footer-grid/Core/Components/Logo.php:483
+#: header-footer-grid/Core/Components/Search.php:130
+#: header-footer-grid/Core/Components/SearchResponsive.php:301
+#: assets/apps/customizer-controls/build/controls.js:1
+msgid "Font Size"
+msgstr "Cỡ chữ"
+
+#: header.php:80 inc/compatibility/fse.php:191
+msgid "Skip to content"
+msgstr "Chuyển tới nội dung"
+
+#: inc/admin/metabox/main.php:93 assets/apps/metabox/build/index.js:1
+msgid "Disable Footer"
+msgstr "Ẩn cuối trang"
+
+#: inc/admin/metabox/main.php:87
+msgid "Disable Featured Image"
+msgstr "Ẩn ảnh đại diện"
+
+#: inc/admin/metabox/main.php:81 inc/customizer/options/layout_blog.php:212
+#: inc/customizer/options/layout_single_page.php:48
+#: assets/apps/metabox/build/index.js:1
+msgid "Disable Title"
+msgstr "Ẩn tiêu đề"
+
+#: inc/admin/metabox/main.php:76 assets/apps/metabox/build/index.js:1
+msgid "Disable Header"
+msgstr "Ẩn đầu trang"
+
+#: inc/admin/metabox/main.php:39 inc/admin/metabox/main.php:56
+msgid "Customizer Setting"
+msgstr "Cài đặt Tuỳ chỉnh"
+
+#: inc/admin/metabox/main.php:57
+msgid "Left Sidebar"
+msgstr "Cột trái"
+
+#: inc/admin/metabox/main.php:58
+msgid "Right Sidebar"
+msgstr "Cột phải"
+
+#: inc/admin/metabox/main.php:59
+msgid "No Sidebar"
+msgstr "Không có cột bên"
+
+#: inc/admin/metabox/main.php:61 inc/core/front_end.php:477
+#: assets/apps/metabox/build/index.js:1
+msgid "Sidebar"
+msgstr "Cột bên"
+
+#: header-footer-grid/Core/Components/Nav.php:309
+#: header-footer-grid/Core/Magic_Tags.php:696
+#: header-footer-grid/templates/components/component-cart-icon.php:51
+#: header-footer-grid/templates/components/component-edd-cart-icon.php:32
+#: inc/views/header.php:178
+msgid "Cart"
+msgstr "Giỏ hàng"
+
+#: inc/core/admin.php:523 assets/apps/customizer-controls/build/controls.js:5
+#: assets/apps/dashboard/build/dashboard.js:3
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: inc/admin/dashboard/main.php:513
+msgid "Blog Layouts"
+msgstr "Bố cục Blog"
+
+#: inc/admin/dashboard/main.php:517
+msgid "Footer Options"
+msgstr "Tuỳ chọn cuối trang"
+
+#: inc/customizer/options/layout_blog.php:411
+msgid "Excerpt Length"
+msgstr "Độ dài tóm tắt"
+
+#: inc/customizer/options/layout_blog.php:366
+#: inc/customizer/options/layout_blog.php:368
+msgid "Number"
+msgstr "Số"
+
+#: inc/customizer/options/layout_blog.php:381
+#: inc/customizer/options/layout_single_post.php:158
+#: assets/apps/customizer-controls/build/controls.js:1
+msgid "Thumbnail"
+msgstr "Ảnh đại diện"
+
+#: inc/customizer/options/layout_blog.php:382
+#: inc/customizer/options/layout_single_post.php:157
+#: assets/apps/customizer-controls/build/controls.js:1
+msgid "Title & Meta"
+msgstr "Tiêu đề và thẻ mô tả"
+
+#: inc/customizer/options/layout_sidebar.php:46
+msgid "Others"
+msgstr "Khác"
+
+#: inc/customizer/options/layout_single_product.php:124
+#: inc/customizer/options/upsells.php:212
+#: assets/apps/customizer-controls/build/controls.js:1
+#: assets/apps/metabox/build/index.js:1
+msgid "None"
+msgstr "Không"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:735
+msgid "Section Content"
+msgstr "Nội dung mục"
+
+#: header-footer-grid/Core/Builder/Header.php:238
+#: inc/customizer/options/layout_sidebar.php:148
+msgid "Enable Advanced Options"
+msgstr "Bật tuỳ chỉnh nâng cao"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:789
+#: inc/customizer/options/main.php:59
+msgid "Typography"
+msgstr "Font chữ"
+
+#: inc/customizer/options/layout_sidebar.php:60
+msgid "Shop / Archive"
+msgstr "Trang Cửa hàng / Lưu trữ"
+
+#: inc/customizer/options/layout_sidebar.php:61
+#: inc/customizer/options/layout_single_product.php:52
+msgid "Single Product"
+msgstr "Trang sản phẩm"
+
+#: inc/compatibility/fse.php:51
+#: inc/customizer/options/base_layout_single.php:74
+#: inc/customizer/options/layout_sidebar.php:41
+#: inc/customizer/options/typography.php:429
+msgid "Single Post"
+msgstr "Trang bài viết"
+
+#: inc/customizer/options/layout_blog.php:367
+msgid "Infinite Scroll"
+msgstr "Scroll mượt"
+
+#: inc/customizer/options/colors_background.php:46
+msgid "Colors & Background"
+msgstr "Màu và Nền"
+
+#: header-footer-grid/Core/Builder/Footer.php:52
+#: header-footer-grid/Core/Builder/Header.php:71 inc/core/admin.php:528
+msgid "Read full documentation"
+msgstr "Đọc tài liệu chi tiết"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:348
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:349
+#: inc/admin/metabox/main.php:41
+#: inc/customizer/options/layout_container.php:199
+#: inc/customizer/options/layout_sidebar.php:169
+#: assets/apps/metabox/build/index.js:1
+msgid "Full Width"
+msgstr "Tràn khung"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:348
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:350
+#: inc/admin/metabox/main.php:40
+#: inc/customizer/options/base_layout_single.php:497
+#: inc/customizer/options/layout_container.php:198
+#: assets/apps/metabox/build/index.js:1
+msgid "Contained"
+msgstr "Thu gọn"
+
+#: inc/admin/metabox/main.php:43 inc/customizer/options/layout_container.php:48
+#: assets/apps/metabox/build/index.js:1
+msgid "Container"
+msgstr "Khung"
+
+#: inc/core/front_end.php:531
+msgid "Filter"
+msgstr "Lọc"
+
+#: header-footer-grid/Core/Components/FooterWidgetFour.php:32
+#: inc/core/front_end.php:487
+msgid "Footer Four"
+msgstr "Cột cuối trang 4"
+
+#: header-footer-grid/Core/Components/FooterWidgetThree.php:31
+#: inc/core/front_end.php:486
+msgid "Footer Three"
+msgstr "Cột cuối trang 3"
+
+#: header-footer-grid/Core/Components/FooterWidgetTwo.php:32
+#: inc/core/front_end.php:485
+msgid "Footer Two"
+msgstr "Cột cuối trang 2"
+
+#: header-footer-grid/Core/Components/FooterWidgetOne.php:31
+#: inc/core/front_end.php:484
+msgid "Footer One"
+msgstr "Cột cuối trang 1"
+
+#: inc/views/content_404.php:37
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Chúng tôi không thể tìm thấy thứ bạn đang truy cập. Vui lòng thử chức năng tìm kiếm."
+
+#: inc/views/content_none.php:79
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, không có gì phù hợp từ khoá của bạn. Vui lòng thử lại với từ khoá khác."
+
+#: inc/customizer/options/layout_sidebar.php:106
+msgid "Sitewide Sidebar Layout"
+msgstr "Bố cục cột bên tất cả trang"
+
+#: inc/customizer/options/layout_sidebar.php:125
+msgid "Sitewide Content Width (%)"
+msgstr "Chiều rộng nội dung tất cả trang (%)"
+
+#: inc/admin/dashboard/main.php:505
+msgid "Layout Options"
+msgstr "Tuỳ chọn bố cục"
+
+#: inc/admin/dashboard/main.php:509
+msgid "Header Options"
+msgstr "Tuỳ chọn đầu trang"
+
+#: inc/admin/dashboard/main.php:521
+#: inc/customizer/options/layout_sidebar.php:87
+msgid "Content / Sidebar"
+msgstr "Nội dung / Cột bên"
+
+#: inc/customizer/options/layout_blog.php:361
+msgid "Post Pagination"
+msgstr "Duyệt bài viết"
+
+#: inc/customizer/options/layout_blog.php:484
+#: inc/customizer/options/layout_single_post.php:340
+msgid "Meta Order"
+msgstr "Thứ tự thẻ Meta"
+
+#: inc/admin/metabox/main.php:136
+msgid "Content Width"
+msgstr "Chiều rộng nội dung"
+
+#: inc/admin/metabox/main.php:137
+msgid "Enable Individual Content Width"
+msgstr "Bật chiều rộng nội dung riêng"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width (Neve)"
+msgstr "Page Builder tràn khung (Neve)"
+
+#: inc/customizer/options/layout_container.php:164
+msgid "Shop / Archive Container Style"
+msgstr "Kiểu khung Trang cửa hàng / Lưu trữ"
+
+#: inc/customizer/options/layout_container.php:168
+msgid "Single Product Container Style"
+msgstr "Kiểu khung trang Sản phẩm"
+
+#: inc/customizer/options/layout_container.php:146
+msgid "Default Container Style"
+msgstr "Kiểu khung mặc định"
+
+#: inc/admin/metabox/main.php:75
+#: assets/apps/customizer-controls/build/d0ef9f65a1aeaf4b8f30.js:1
+msgid "Components"
+msgstr "Component"
+
+#: inc/customizer/options/layout_container.php:154
+msgid "Single Post Container Style"
+msgstr "Kiểu khung trang bài viết"
+
+#: inc/customizer/options/layout_container.php:150
+msgid "Blog / Archive Container Style"
+msgstr "Kiểu khung trang Blog / Lưu trữ"
+
+#: inc/customizer/options/layout_blog.php:259
+msgid "Enable Masonry"
+msgstr "Bật Masonry"
+
+#. translators: %s - Theme name
+#: inc/admin/dashboard/main.php:357 inc/core/admin.php:525
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "Cần thêm thông tin? Xem tài liệu của chúng tôi để biết cách sử dụng %s."
+
+#. translators: %s - Theme name
+#: inc/admin/dashboard/main.php:349
+msgid "With %s, you can choose from multiple unique demos, specially designed for you, that can be installed with a single click. You just need to choose your favorite, and we will take care of everything else."
+msgstr "Với %s, bạn có thể chọn từ nhiều bản demo, được thiết kế riêng cho bạn, và cài đặt chỉ trong một cú nhấp chuột. Bạn chỉ cần chọn, chúng tôi sẽ lo phần còn lại."
+
+#. translators: %s - Theme name
+#: inc/admin/dashboard/main.php:346 inc/core/admin.php:516
+msgid "%s now comes with a sites library with various designs to pick from. Visit our collection of demos that are constantly being added."
+msgstr "%s bao gồm cả thư viện với nhiều kiểu thiết kế để lựa chọn. Ghé thăm danh sách demo."
+
+#. translators: %s - Theme name
+#: inc/admin/dashboard/main.php:355
+msgid "We want to make sure you have the best experience using %1$s, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using %1$s as much as we enjoy creating great products."
+msgstr "Chúng tôi muốn chắc rằng bạn có trải nghiệm tốt nhất với %1$s, và đây là lý do chúng tôi mang lại các thông tin cần thiết cho bạn. Hi vọng bạn sử dụng %1$s hiệu quả như việc chúng tôi tạo ra các sản phẩm tuyệt vời."
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://themeisle.com/themes/neve/"
+msgstr "https://themeisle.com/themes/neve/"
