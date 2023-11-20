@@ -46,10 +46,10 @@ add_action('after_setup_theme','university_features');
 //}
 
 //Action hook
-add_action('wp_footer', 'my_test');
-function my_test() {
-    echo '<div>Chao mung hello   ban den voi footer</div>';
-}
+// add_action('wp_footer', 'my_test');
+// function my_test() {
+//     echo '<div>Chao mung hello   ban den voi footer</div>';
+// }
 
 //filter hook
 /*
