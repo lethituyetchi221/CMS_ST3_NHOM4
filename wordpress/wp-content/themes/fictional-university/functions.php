@@ -28,6 +28,7 @@ function university_files()
     wp_enqueue_style('google-font', 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"');
     wp_enqueue_style('main-style',get_theme_file_uri('/build/index.css'));
     wp_enqueue_style('second-style',get_theme_file_uri('/build/style-index.css'));
+    wp_enqueue_style('third-style',get_theme_file_uri('/style.css'));
     //load JS
      //wp_enqueue_script('main-js'.get_theme_file_url('/build/index.js'). array('jquery').'1.0');
 }

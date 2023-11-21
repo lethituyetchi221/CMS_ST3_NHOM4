@@ -3,6 +3,21 @@ Theme name: Fictional-university-theme
 Them URL: https://wordpress.org/
 Author: Tuyet Chi
 */
-h1{
-    color: orange;
+
+/* Định dạng tiêu đề của phần bình luận */
+.comments-title {
+    font-size: 24px !important;
+    color: #333 !important;
+}
+
+/* Định dạng phần nội dung của mỗi bình luận */
+#commentform #comment {
+    border: #4da6ff 1px solid !important;
+}
+#commentform #submit{
+    background-color: #4da6ff !important;
+    color: white !important;
+    padding: 10px !important;
+    border: none !important;
+    border-radius: 5px !important;
 }

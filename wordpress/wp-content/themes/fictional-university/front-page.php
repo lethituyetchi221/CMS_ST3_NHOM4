@@ -1,6 +1,6 @@
 <?php get_header(); ?>
-<div class="page-banner">
-  <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri('images/banner.png') ?>)"></div>
+<div class="page-banner" style="background-image: url(<?php echo get_theme_file_uri('images/banner.png') ?>)">
+  <div class="page-banner__bg-image"></div>
   <div class="page-banner__content container t-center c-white">
     
     <a href="#" class="btn btn--large btn--blue">Find Your Major</a>
