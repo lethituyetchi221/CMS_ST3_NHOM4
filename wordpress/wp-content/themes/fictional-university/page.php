@@ -1,10 +1,12 @@
 <?php get_header() ?>
-<div class="page-banner" style="background-image: url(<?php echo get_theme_file_uri('images/ocean.jpg') ?>)">
-    <div class="page-banner__bg-image"></div>
+<div class="page-banner">
+    <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri('images/banner2.webp') ?>)"></div>
     <div class="page-banner__content container container--narrow">
+        <div class="div1">
         <h1 class="page-banner__title">Our History</h1>
         <div class="page-banner__intro">
             <p>Learn how the school of your dreams got started.</p>
+        </div>
         </div>
     </div>
 </div>

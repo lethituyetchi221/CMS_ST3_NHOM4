@@ -8,10 +8,6 @@
     <title>Document</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,300,400,400i,700,700i" rel="stylesheet" />
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
-    <meta property="og:title" content="<?php the_title(); ?>">
-    <meta property="og:description" content="<?php echo get_the_excerpt(); ?>">
-    <meta property="og:image" content="<?php echo get_the_post_thumbnail_url(get_the_ID(), 'full'); ?>">
-    <meta property="og:url" content="<?php the_permalink(); ?>">
     <?php wp_head() ?>
 </head>
 
@@ -19,16 +15,16 @@
     <header class="site-header">
         <div class="container">
             <h1 class="school-logo-text float-left">
-                <a href="#"><?php the_custom_logo(); ?></a>
+                <a href="#"><?php the_custom_logo();?></a>
             </h1>
             <span class="js-search-trigger site-header__search-trigger"><i class="fa fa-search" aria-hidden="true"></i></span>
             <i class="site-header__menu-trigger fa fa-bars" aria-hidden="true"></i>
             <div class="site-header__menu group">
                 <nav class="main-navigation">
-                    <?php
-                    wp_nav_menu(array(
+                    <?php 
+                    wp_nav_menu( array(
                         'theme_location' => 'headerMenuLocation'
-                    ))
+                    ) )
                     ?>
                     <!-- <ul>
                         <li><a href="<?php echo site_url('/about-us') ?>">About Us</a></li>

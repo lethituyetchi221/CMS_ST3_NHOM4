@@ -897,9 +897,9 @@ body.login {
   }
 }
 .page-banner__bg-image {
-  opacity:  inherit;
+  opacity: 0.83;
   background-size: contain;
-  position: fixed;
+  position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
@@ -1494,4 +1494,8 @@ body.admin-bar .search-overlay {
 .post-item:last-of-type {
   border-bottom: none;
   margin-bottom: 0;
+}
+
+.div1{
+  opacity: 0;
 }
