@@ -3,6 +3,28 @@ Theme name: Fictional-university-theme
 Them URL: https://wordpress.org/
 Author: Tuyet Chi
 */
-h1{
-    color: orange;
+.inputSearch{
+    margin-bottom: 10px !important;
+}
+.inputSearch div{
+    display: flex !important;
+}
+
+.inputSearch input[type="text"]{
+    width: 100% !important;
+    border: 1px solid gray !important;
+    border-radius: 5px !important;
+}
+
+.inputSearch input[type="submit"] {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px !important;
+}
+
+.elementor-166 .elementor-element.elementor-element-e502dd3 .wpr-mobile-nav-menu{
+    width: 100% !important;
 }
