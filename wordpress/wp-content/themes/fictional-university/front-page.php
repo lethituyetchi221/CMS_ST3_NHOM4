@@ -4,8 +4,8 @@
     <?php get_search_form(); ?>
   </div>
 </div>
-<div class="">
-  <img src="<?php echo get_theme_file_uri('images/banner.png') ?>" alt="">
+<div class="container">
+  <img src="<?php echo get_theme_file_uri('images/banner.png') ?>" alt="" class="w-100">
 </div>
 <div class="container my-2">
   <h3 class="mt-2 text-center">Các loại sản phẩm</h3>

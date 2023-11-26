@@ -3,14 +3,15 @@ Theme name: Fictional-university-theme
 Them URL: https://wordpress.org/
 Author: Tuyet Chi
 */
-.inputSearch{
+.inputSearch {
     margin-bottom: 10px !important;
 }
-.inputSearch div{
+
+.inputSearch div {
     display: flex !important;
 }
 
-.inputSearch input[type="text"]{
+.inputSearch input[type="text"] {
     width: 100% !important;
     border: 1px solid gray !important;
     border-radius: 5px !important;
@@ -25,6 +26,26 @@ Author: Tuyet Chi
     border-radius: 5px !important;
 }
 
-.elementor-166 .elementor-element.elementor-element-e502dd3 .wpr-mobile-nav-menu{
+.elementor-166 .elementor-element.elementor-element-e502dd3 .wpr-mobile-nav-menu {
+    width: 100% !important;
+}
+
+.woocommerce .col-1 {
+    max-width: 100% !important;
+}
+
+.woocommerce .col-2 {
+    max-width: 100% !important;
+}
+
+.woocommerce form .form-row {
+    width: 100% !important;
+}
+
+.woocommerce form .form-row label{
+    width: 100% !important;
+}
+
+.woocommerce form .form-row span{
     width: 100% !important;
 }
