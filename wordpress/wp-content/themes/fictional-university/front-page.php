@@ -19,7 +19,7 @@
       $my_queries->the_post();
       global $product;
     ?>
-      <div class="col-md-3 py-2">
+      <div class="col-md-3 py-3">
         <h5><?php the_title(); ?></h5>
         <?php
         // Hiển thị hình ảnh sản phẩm

@@ -2,8 +2,8 @@
 add_theme_support('title-tag');
 //them logo cho trang
 add_theme_support('custom-logo', array(
-    'height' => 100,
-    'width'  => 100,
+    'height' => 500,
+    'width'  => 500,
     'flex-width' => true
 ));
 //add_theme_support( 'custom-header' );
@@ -48,16 +48,6 @@ add_action('after_setup_theme', 'university_features');
 
 
 
-//add_action('admin_bar_menu', 'my_test', 11);
-//function my_test(){
-//echo "This text is hook to admin_bar_menu hook";
-//}
-
-//Action hook
-// add_action('wp_footer', 'my_test');
-// function my_test() {
-//     echo '<div>Chao mung hello   ban den voi footer</div>';
-// }
 
 //filter hook
 /*
